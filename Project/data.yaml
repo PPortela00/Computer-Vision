@@ -1,0 +1,5 @@
+names: [LE;ER, SF;PO, VG;MT, LR;DA, LE;CR]
+nc: 5
+test: test/images
+train: train/images
+val: valid/images

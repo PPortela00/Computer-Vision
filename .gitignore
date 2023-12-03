@@ -81,6 +81,21 @@ target/
 # exclude models from source control by default
 /Project/models/
 
+# exclude data from train, test, and validation from source control by default
+/Project/test/
+/Project/train/
+/Project/valid/
+
+# exclude data from train, test, and validationinside of yolov5 from the yolov5 folder
+/Project/yolo/test/
+/Project/yolo/train/
+/Project/yolo/valid/
+
+# exclude data from train, test, and validationinside of yolov8 from the datasets folder
+/Project/datasets/train/
+/Project/datasets/test/
+/Project/datasets/valid/
+
 # Mac OS-specific storage files
 .DS_Store
 

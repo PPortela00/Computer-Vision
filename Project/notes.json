@@ -1,0 +1,29 @@
+{
+    "categories": [
+      {
+        "id": 0,
+        "name": "LE;ER"
+      },
+      {
+        "id": 1,
+        "name": "SF;PO"
+      },
+      {
+        "id": 2,
+        "name": "VG;MT"
+      },
+      {
+        "id": 3,
+        "name": "LR;DA"
+      },
+      {
+        "id": 4,
+        "name": "LE;CR"
+      }
+    ],
+    "info": {
+      "year": 2022,
+      "version": "1.0",
+      "contributor": "Label Studio"
+    }
+  }
