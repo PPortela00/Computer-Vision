@@ -87,14 +87,14 @@ target/
 /Project/valid/
 
 # exclude data from train, test, and validationinside of yolov5 from the yolov5 folder
-/Project/yolo/test/
-/Project/yolo/train/
-/Project/yolo/valid/
+/Project/yolov8/test/
+/Project/yolov8/train/
+/Project/yolov8/valid/
 
 # exclude data from train, test, and validationinside of yolov8 from the datasets folder
-/Project/datasets/train/
-/Project/datasets/test/
-/Project/datasets/valid/
+/Project/datasets/
+/Project/datasets/
+/Project/datasets/
 
 # Mac OS-specific storage files
 .DS_Store

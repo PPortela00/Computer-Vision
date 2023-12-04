@@ -1,0 +1,5 @@
+names: [LE;ER, SF;PO, VG;MT, LR;DA, LE;CR]
+nc: 5
+test: yolov8/test/images
+train: yolov8/train/images
+val: yolov8/valid/images
