@@ -1,7 +1,7 @@
 task: detect
 mode: train
-model: yolov8/yolov8n.pt
-data: yolov8/data.yaml
+model: YOLOv8/yolov8n.pt
+data: YOLOv8/data.yaml
 epochs: 5
 patience: 50
 batch: 4
