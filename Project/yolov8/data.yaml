@@ -1,5 +1,0 @@
-names: [LE;ER, SF;PO, VG;MT, LR;DA, LE;CR]
-nc: 5
-test: YOLOv8/test/images
-train: YOLOv8/train/images
-val: YOLOv8/valid/images
